@@ -3,72 +3,59 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scholar Nest</title>
+    <title>Authentication Page</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="scholarnest.ico">
+    <link rel="icon" href="scholarnest.ico" type="image/x-icon">
 </head>
 <body>
 
-    <!-- Background Image -->
-    <img src="background image.jpg" alt="Background Image" class="bg-image">
+<header>
+    <div class="logo">
+        <img src="scholarnest.png" alt="Scholar Nest Logo">
+    </div>
+    <nav>
+        <ul>
+            <li><a href="https://dashboard-scholarnest.netlify.app/">HOME</a></li>
+            <li><a href="https://dashboard-scholarnest.netlify.app/">ABOUT</a></li>
+            <li><a href="https://dashboard-scholarnest.netlify.app/">CONTACT</a></li>
+        </ul>
+    </nav>
+    <nav>
+        <button onclick="navigateTo('index.html')">Home</button>
+        <button onclick="navigateTo('resources.html')">Resources</button>
+    </nav>
+</header>
 
-    <header>
-        <div class="logo-container">
-            <img src="scholarnest.png" alt="Scholar Nest Logo" class="logo-img">
-            <span class="logo-text">Scholar Nest</span>
-        </div>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                    <button onclick="navigateTo('index.html')">Back to Profile</button>
-                <!-- Profile Menu (Hidden if not logged in) -->
-                <li class="profile-menu" id="profileMenu">
-                    <img src="profile-icon.png" alt="Profile" class="profile-icon">
-                    <ul class="dropdown">
-                        <li><a href="#" onclick="navigate('profile')">Profile</a></li>
-                        <li><a href="#" onclick="navigate('uploads')">Uploads</a></li>
-                        <li><a href="#" onclick="navigate('logout')">Logout</a></li>
-                    </ul>
-                </li>
-                <!-- Login/Register Button (Visible if not logged in) -->
-                <li id="loginButton">
-                    <button class="login-btn" onclick="navigate('login')">Login/Register</button>
-                </li>
-            </ul>
-        </nav>
-    </header>
+<div class="container">
+    <div class="left-box">
+        <h1>Welcome To <br> Scholar Nest!</h1>
+        <img src="scholar-nest-diagram.png" alt="Scholar Nest Diagram">
+        
+        <!-- Google Login Button -->
+        <button class="login-btn" onclick="googleLogin()">Login with Google</button>
+    </div>
+</div>
+
+<script>
+function googleLogin() {
+    const clientId = "800290181594-ggv0ajq24rbf6cc4l033pflouu5o316r.apps.googleusercontent.com"; 
+    const redirectUri = "https://dashboard-scholarnest.netlify.app/"; // Must match Google Console
+    const scope = "email profile";
     
-    <section class="container">
-        <div class="quick-links">
-            <h2>Quick Links !</h2>
-            <button class="btn" onclick="navigate('notes')">Notes & Lectures</button>
-            <button class="btn" onclick="navigate('pyq')">PYQ's</button>
-            <button class="btn" onclick="navigate('upload')">Upload Content</button>
-        </div>
+    const authUrl = `https://accounts.google.com/o/oauth2/v2/auth
+        ?client_id=${clientId}
+        &redirect_uri=${encodeURIComponent(redirectUri)}
+        &response_type=token
+        &scope=${encodeURIComponent(scope)}`;
 
-        <div class="about">
-            <h2>Scholar Nest</h2>
-            <p><strong>Learn, Share, Succeed!</strong></p>
-            <p>IIT Indore’s Exclusive Study Hub. One platform for sharing, accessing, and organizing study materials seamlessly.</p>
-            <h3>About us !</h3>
-            <p>Scholar Nest is an exclusive Study Hub designed specifically for IIT Indore students. Our platform provides a centralized, well-organized space to access, share, and manage study materials effortlessly.</p>
-        </div>
-    </section>
+    window.location.href = authUrl;
+}
 
-    <!-- extra -->
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            fetch("http://127.0.0.1:5000/check_session", { credentials: "include" })
-                .then(response => response.json())
-                .then(data => {
-                    if (!data.logged_in) {
-                        alert("You must log in first!");
-                        window.location.href = "index.html";  // Redirect to login
-                    }
-                })
-                .catch(error => console.error("Error:", error));
-        });
-    </script>
-    <script src="script.js"></script>
+
+    function navigateTo(url) {
+        window.location.href = url;
+    }
+</script>
+
 </body>
 </html>
