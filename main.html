@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scholar Nest</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        const subjectsData = {
+            CSE: {
+                "1": ["Mathematics I (MA101)", "Physics I (PH101)", "Chemistry I (CH101)", "Introduction to Programming (CS101)", "Engineering Mechanics (ME101)", "Engineering Drawing (ME103)", "Communication Skills (HS100)"],
+                "2": ["Mathematics II (MA102)", "Physics II (PH102)", "Digital Logic Design (CS102)", "Electrical Engineering (EE101)", "Basic Mechanical Engineering (ME102)", "Environmental Studies (HS101)"],
+                "3": ["Mathematics III (MA201)", "Data Structures and Algorithms (CS201)", "Computer Organization (CS202)", "Discrete Mathematics (CS203)", "Design and Analysis of Algorithms (CS204)", "Signals and Systems (EE102)"],
+                "4": ["Mathematics IV (MA202)", "Computer Networks (CS205)", "Operating Systems (CS206)", "Theory of Computation (CS207)", "Database Management Systems (CS208)", "Software Engineering (CS209)"],
+                "5": ["Artificial Intelligence (CS301)", "Design and Analysis of Algorithms (CS302)", "Computer Architecture (CS303)", "Database Systems Lab (CS304)", "Digital Signal Processing (EE301)", "Computer Networks Lab (CS305)"],
+                "6": ["Operating Systems Lab (CS306)", "Computer Vision (CS307)", "Machine Learning (CS308)", "Web Technologies (CS309)", "Advanced Programming (CS310)"],
+                "7": ["Cloud Computing (CS401)", "Natural Language Processing (CS402)", "Big Data Analytics (CS403)", "Advanced Databases (CS404)", "Cryptography and Network Security (CS405)"]
+            },
+            Civil: {
+                "1": ["Mathematics I (MA101)", "Physics I (PH101)", "Introduction to Civil Engineering (CE101)", "Engineering Mechanics (ME101)", "Basic Mechanical Engineering (ME102)", "Communication Skills (HS100)"],
+                "2": ["Mathematics II (MA102)", "Chemistry I (CH101)", "Surveying I (CE102)", "Engineering Drawing (CE103)", "Fluid Mechanics I (CE104)", "Materials Science (CE105)"],
+                "3": ["Strength of Materials I (CE201)", "Structural Analysis I (CE202)", "Fluid Mechanics II (CE203)", "Geotechnical Engineering (CE204)", "Building Materials (CE205)"],
+                "4": ["Structural Analysis II (CE206)", "Surveying II (CE207)", "Concrete Technology (CE208)", "Soil Mechanics (CE209)", "Transportation Engineering (CE210)"],
+                "5": ["Environmental Engineering I (CE301)", "Water Resources Engineering (CE302)", "Geotechnical Engineering II (CE303)", "Design of Concrete Structures (CE304)", "Design of Steel Structures (CE305)"],
+                "6": ["Environmental Engineering II (CE306)", "Design of Pavements and Bridges (CE307)", "Hydrology and Hydraulic Engineering (CE308)", "Geotechnical Engineering Lab (CE309)", "Environmental Engineering Lab (CE310)"],
+                "7": ["Advanced Structural Analysis (CE401)", "Project Management (CE402)", "Geosynthetics and Ground Improvement (CE403)", "Advanced Soil Mechanics (CE404)", "Electives (CE405, CE406, etc.)"]
+            }
+        };
+
+        function updateSubjects() {
+            let course = document.getElementById('course').value;
+            let semester = document.getElementById('semester').value;
+            let subjectDropdown = document.getElementById('subject');
+            
+            subjectDropdown.innerHTML = '<option value="" disabled selected>Select Subject</option>';
+
+            if (course && semester) {
+                let subjects = subjectsData[course][semester] || [];
+                subjects.forEach(subject => {
+                    let option = document.createElement('option');
+                    option.value = subject;
+                    option.textContent = subject;
+                    subjectDropdown.appendChild(option);
+                });
+            }
+        }
+
+        function toggleProfileMenu(event) {
+    event.stopPropagation(); // Prevents immediate closing
+    let menu = document.getElementById('profile-menu');
+    menu.classList.toggle('show');
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+    let profileIcon = document.querySelector(".profile-icon");
+    let profileMenu = document.getElementById("profile-menu");
+
+    profileIcon.addEventListener("click", function (event) {
+        toggleProfileMenu(event);
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener("click", function (event) {
+        if (!profileMenu.contains(event.target) && !profileIcon.contains(event.target)) {
+            profileMenu.classList.remove("show");
+        }
+    });
+});
+
+    </script>
+
+</head>
+<body>
+    <div class="header">
+        <img src="scholarnest.png" alt="Scholar Nest Logo" class="logo">
+        <div class="site-title">Scholar Nest</div>
+        <div class="home">Home</div>
+
+        <div class="profile-container">
+            <img src="profile-icon.png" alt="Profile Icon" class="profile-icon" onclick="toggleProfileMenu()">
+            <div id="profile-menu" class="profile-dropdown">
+                <a href="#">Upload</a>
+                <a href="https://dashboard-scholarnest.netlify.app/">Profile</a>
+                <a href="https://dashboard-scholarnest.netlify.app/">Logout</a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="heading">Boost Your Confidence and Scores with Scholar Nest's Extensive PYQ Collection!</div>
+        
+        <div class="dropdown-container">
+            <select id="course" onchange="updateSubjects()">
+                <option value="" disabled selected>Select Course</option>
+                <option value="CSE">Computer Science & Engineering</option>
+                <option value="Civil">Civil Engineering</option>
+            </select>
+            
+            <select id="semester" onchange="updateSubjects()">
+                <option value="" disabled selected>Select Semester</option>
+                <option value="1">Sem 1</option>
+                <option value="2">Sem 2</option>
+                <option value="3">Sem 3</option>
+                <option value="4">Sem 4</option>
+                <option value="5">Sem 5</option>
+                <option value="6">Sem 6</option>
+                <option value="7">Sem 7</option>
+            </select>
+
+            <select id="subject">
+                <option value="" disabled selected>Select Subject</option>
+            </select>
+            
+            <button onclick="alert('Searching...')">Search</button>
+        </div>
+    </div>
+</body>
+</html>
