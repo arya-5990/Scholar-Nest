@@ -1,0 +1,101 @@
+/* General styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #e6e0f8;
+}
+
+/* Header styles */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #b39ddb;
+    padding: 15px 20px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+}
+
+/* Main content with background image */
+main {
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('background-image.jpg') no-repeat center center;
+    background-size: cover;
+    position: relative;
+}
+
+/* Content box on top of the background */
+.content {
+    background: rgba(255, 255, 255, 0.85);
+    padding: 25px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+    max-width: 400px;
+}
+
+.content h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.content p {
+    font-size: 16px;
+    color: #555;
+}
+
+/* File Upload Section */
+.upload-section {
+    text-align: center;
+    padding: 30px;
+    background: #f5f5f5;
+    border-radius: 12px;
+    width: 50%;
+    margin: 20px auto;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.1);
+}
+
+.upload-section h2 {
+    font-size: 22px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Custom File Upload Button */
+.file-upload {
+    display: inline-block;
+    background-color: #7e57c2;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.file-upload:hover {
+    background-color: #673ab7;
+}
+
+/* Hide default input */
+.upload-section input[type="file"] {
+    display: none;
+}
+
+#fileName {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+    font-weight: 500;
+}
