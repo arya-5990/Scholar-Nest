@@ -1,0 +1,524 @@
+### **Computer Science and Engineering (CSE)**
+
+#### **Semester 1:**
+- **Mathematics I (MA101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy&si=A9CObLMvBLoUCJHD
+         pyqs-
+
+
+- **Physics I (PH101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLsdCAtvXM7C_8U1hQfF66zLFPreT-YKmV&si=haB3RnAoPE7rujZq
+         pyqs-
+
+
+- **Chemistry I (CH101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLlDqaqc4emE9fTs5VD4rn5nFe9autt1jh&si=i5NhcRD1rlDTQlRK
+         pyqs-
+
+
+- **Introduction to Programming (CS101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PL_uaeekrhGzLn6o0f5kMfnipomIeV_bXk&si=999NX46e8mQg2_WI
+         pyqs-
+
+
+- **Engineering Mechanics (ME101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLV6eaniJnbLyi0a5wsLGhu0j81EVL62Jh&si=RoTnestql7AT7sIG
+         pyqs-
+
+
+- **Engineering Drawing (ME103)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLgwJf8NK-2e79xuABrIQeXYlGuuickEz7&si=4HCv8pSMValtDy5H
+         pyqs-
+
+
+- **Communication Skills (HS100)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLm_MSClsnwm-AIEbpyIxoTT8t7UzkHSYC&si=3ocd-Jnso1gthsUJ
+         pyqs-
+
+
+
+#### **Semester 2:**
+- **Mathematics II (MA102)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLO-6jspot8AJlSzvsqdvKo-t6Remqb9gW&si=-BlcissjxdWdTP8b
+         pyqs-
+
+
+- **Physics II (PH102)**
+         pdf-
+         link-https://youtube.com/playlist?list=PL5B3KLQNAC5i2fKfMSPiZ7RzZW-GxeaKB&si=ZG2SDchrVm99EQ9_
+         pyqs-
+
+
+- **Digital Logic Design (CS102)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLXj4XH7LcRfBQXAd8FPZXmMzxZY-rViLP&si=Ged4rKGpkVk-tsg-
+         pyqs-
+
+
+- **Electrical Engineering (EE101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLa3wM_FvSJ0tuiS4518Lw6pfyoZ9_TaAb&si=j2d2dDYrTcoMcADd
+         pyqs-
+
+
+- **Basic Mechanical Engineering (ME102)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLgwJf8NK-2e7Fe4vAYDaL0bpseGNhc9on&si=XFt1URWlHvmzoUnv
+         pyqs-
+
+
+- **Environmental Studies (HS101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PL3qvHcrYGy1u2egw2tipHWODV6elVC2Gg&si=GG-Wo-WjS0qJnNJC
+         pyqs-
+
+
+
+#### **Semester 3:**
+- **Mathematics III (MA201)**
+         pdf-
+         link-https://youtube.com/playlist?list=PL7lBkW4pLsII9KsukPnPEIQ1XwKQaZlca&si=J90TMsg65y_m8YS_
+         pyqs-
+
+
+- **Data Structures and Algorithms (CS201)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLtCBuHKmdxOfCp0uG9Bw8JVEreYcIl0H0&si=odCsYa2R97jUYrxg
+         pyqs-
+
+
+- **Computer Organization (CS202)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLIGdiIL0Y773vYDV7aM4E9dFapB1B_jq_&si=-GoRQw0IexbQPIwl
+         pyqs-
+
+
+- **Discrete Mathematics (CS203)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLtCBuHKmdxOduWhQPbEwLN2ULKMqgQ44m&si=fNvIHKYfU4L_8UtN
+         pyqs-
+
+
+- **Design and Analysis of Algorithms (CS204)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLszXJYreoUiMNfQQV6g8A9k2vJ0uNz4-s&si=zu81xTUpLrwoMC9w
+         pyqs-
+
+
+- **Signals and Systems (EE102)**
+         pdf-
+         link-https://www.youtube.com/watch?v=9gPuUVYImiQ&list=PLpGHT1n4-mAvjbBio7D_qpIN4bZqOOOST
+         pyqs-
+
+
+
+#### **Semester 4:**
+- **Mathematics IV (MA202)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLRLB5WCqU54XYhw7GpbLWVWxLy1xgYnkj&si=689kzJ0qHYthVNiA
+         pyqs-
+
+
+- **Computer Networks (CS205)**
+         pdf-
+         link-https://youtu.be/IPvYjXCsTg8?si=K2QbavILxyma-uwD
+         pyqs-
+
+
+- **Operating Systems (CS206)**
+         pdf-
+         link-https://youtube.com/playlist?list=PL2EyrOLxAicpQiWY3_c6nTn48wE3uXBNy&si=5Y-Zb6PxsaLYFoct
+         pyqs-
+
+
+- **Theory of Computation (CS207)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i&si=9ks9hwGMvJdLSfoq
+         pyqs-
+
+
+- **Database Management Systems (CS208)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ&si=qtowqJXu1i7mUl7x
+         pyqs-
+
+
+- **Software Engineering (CS209)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH&si=msAeauWn_FoW2Cmz
+         pyqs-
+
+
+
+#### **Semester 5:**
+- **Artificial Intelligence (CS301)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLbMVogVj5nJQu5qwm-HmJgjmeGhsErvXD&si=Gq_94DSEGVP5yaJI
+         pyqs-
+
+
+- **Design and Analysis of Algorithms (CS302)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLpqGPi6G3Jf1efKbzUObp2W-jsF3MGmdT&si=YqZrHn-xWH-LcFtm
+         pyqs-
+
+
+- **Computer Architecture (CS303)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX&si=p8Wo9CGCD9vopv-i
+         pyqs-
+
+
+- **Database Systems Lab (CS304)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLcOncn3UKJi2TpVfrXpby6UZFjZfYFfXn&si=JqqaCy_lkYDDR5U9
+         pyqs-
+
+
+- **Digital Signal Processing (EE301)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLbtAaXHMto-t0TIXdaXjgwr1vi4pSz4bj&si=FIgl2Oe8dRoeg6Ve
+         pyqs-
+
+
+- **Computer Networks Lab (CS305)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLletCzWRuhgg_Z9p5USL9DshJ1bwU02Ff&si=CgACCNopp_vpx6Ui
+         pyqs-
+
+
+
+#### **Semester 6:**
+- **Operating Systems Lab (CS306)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLWjmN065fOfGdAZrlP6316HVHh8jlvefD&si=lVh0Vhe4opm29_v_
+         pyqs-
+
+
+- **Computer Vision (CS307)**
+         pdf-
+         link-https://youtu.be/lgbKpn7q40M?si=CAw_mLFY1OhBwpyC
+         pyqs-
+
+
+- **Machine Learning (CS308)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ&si=HqDWIAeORSnBDFiM
+         pyqs-
+
+
+- **Web Technologies (CS309)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLL7liBDYa4Ya7cZyU0IYj3DSjinZ2Se8c&si=_w0SJRsy0zDmsBzm
+         pyqs-
+
+
+- **Advanced Programming (CS310)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLkWRDE8xh5y4aHm5x3htMi34tmo0-ABLK&si=MTio2g5zI6GHdPbp
+         pyqs-
+
+
+
+#### **Semester 7:**
+- **Cloud Computing (CS401)**
+         pdf-
+         link-https://www.youtube.com/live/Rzzi_CGMIHc?si=JgfChs92SSZaKr31
+         pyqs-
+
+
+- **Natural Language Processing (CS402)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLPIwNooIb9vimsumdWeKF3BRzs9tJ-_gy&si=RgfN91tYWWMlJ7SR
+         pyqs-
+
+
+- **Big Data Analytics (CS403)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLo4m8hx3sbb_lclO7n9bDr35Y3TKf56w1&si=Pg0T1lvtfgnYllad
+         pyqs-
+
+
+- **Advanced Databases (CS404)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=jMRVYa_LLL8EuuKL
+         pyqs-
+
+
+- **Cryptography and Network Security (CS405)**
+         pdf-
+         link-https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8&si=zg2ziVNgjyuUrvNM
+         pyqs-
+
+
+
+#### **Semester 8:**
+
+- **Electives (CS408, CS409, etc.)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT&si=1LnKX4LsYIPCMZNY
+         pyqs-
+
+
+
+
+
+
+### **Civil Engineering (CE)**
+
+#### **Semester 1:**
+- **Mathematics I (MA101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy&si=A9CObLMvBLoUCJHD
+         pyqs-
+
+
+- **Physics I (PH101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLsdCAtvXM7C_8U1hQfF66zLFPreT-YKmV&si=haB3RnAoPE7rujZq
+         pyqs-
+
+
+- **Introduction to Civil Engineering (CE101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLzBZ3hmMnx1JW7CLrviKNiHKN_9uVR5Np&si=pJue3tz-4jLx5o91
+         pyqs-
+
+
+- **Engineering Mechanics (ME101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLV6eaniJnbLyi0a5wsLGhu0j81EVL62Jh&si=RoTnestql7AT7sIG
+         pyqs-
+
+
+- **Basic Mechanical Engineering (ME102)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLg2LVpcRrOF7L4FknzcfxrnMin-03WUHs&si=hkpLlUwoF4Hsn7cs
+         pyqs-
+
+
+- **Communication Skills (HS100)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLm_MSClsnwm-AIEbpyIxoTT8t7UzkHSYC&si=3ocd-Jnso1gthsUJ
+         pyqs-
+
+
+
+
+#### **Semester 2:**
+- **Mathematics II (MA102)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG&si=WmgTUlbQfia5CHe5
+         pyqs-
+
+
+- **Chemistry I (CH101)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLlDqaqc4emE9fTs5VD4rn5nFe9autt1jh&si=PzBuzF9xlwNga-uw
+         pyqs-
+
+
+- **Surveying I (CE102)**
+         pdf-
+         link-https://youtu.be/l7hhFozApMc?si=zgcNYEOiAiSXbpTm
+         pyqs-
+
+
+- **Engineering Drawing (CE103)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLDN15nk5uLiD3MEUiqsYPnZOHcVu7um6_&si=bc1T9lvXwmo_13XV
+         pyqs-
+
+
+- **Fluid Mechanics I (CE104)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLQR3QcO-W5he1X1GHd_IutnslXcr4mIh8&si=kXiDa44kXiQVamsy
+         pyqs-
+
+
+- **Materials Science (CE105)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLVPUBptx5nJn3gSxrzbg4wykU0igvbOYN&si=-pFnECcwktt8VgeY
+         pyqs-
+
+
+
+#### **Semester 3:**
+- **Strength of Materials I (CE201)**
+         pdf-
+         link-https://youtu.be/uJ7N-whrhNE?si=faJ3dpwiEbA7OitG
+         pyqs-
+
+
+- **Structural Analysis I (CE202)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLL7liBDYa4YYtBBRCo9ov4g-KOjvLCvDO&si=WhJa_k_VhQ_A2Bo1
+         pyqs-
+
+
+- **Fluid Mechanics II (CE203)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLm_MSClsnwm-15zRgPtGBReuSb4FFgTJH&si=qkm722bbYTB_upPh
+         pyqs-
+
+
+- **Geotechnical Engineering (CE204)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLgzsL8klq6DItVXUMDXs0lsqy3S9j8gkK&si=RLBn5tY_g4B71kRE
+         pyqs-
+
+
+- **Building Materials (CE205)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLg8R8W-0afd3ozXDkWmC5Kjxnv3NBOXoi&si=x-GGDoaN6rObj3dG
+         pyqs-
+
+
+
+#### **Semester 4:**
+- **Structural Analysis II (CE206)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLibcvbfbt1Vxp4fMyHuFDxgomSwMAV9Zc&si=uyaPfLSCvZe188SD
+         pyqs-
+
+
+- **Surveying II (CE207)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLm_MSClsnwm9C1Bq0EAqp8uDUtY-oJ6uf&si=kvrX4Ztsd8OaUUgS
+         pyqs-
+
+
+- **Concrete Technology (CE208)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLvmO_E5NpXNzQCt9CsYt-yKWdR0JnuRZq&si=beZmD-0wIjIrtmE3
+         pyqs-
+
+
+- **Soil Mechanics (CE209)**
+         pdf-
+         link-https://youtube.com/playlist?list=PL6A2XVMXW8qZr7dNTPT_rGeAnyia5_WOo&si=LS1tIoF3nL0AqBFz
+         pyqs-
+
+
+- **Transportation Engineering (CE210)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLL7liBDYa4YYOaxVr2E9m_SopJjBf5Kvq&si=Zs_EXcHT-binJ_kz
+         pyqs-
+
+
+
+#### **Semester 5:**
+- **Environmental Engineering I (CE301)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLL7liBDYa4YaJ538RmxMWJnZYrKX9Tbi8&si=cU3g3ue6iPdqUkQr
+         pyqs-
+
+
+- **Water Resources Engineering (CE302)**
+         pdf-
+         link-https://youtu.be/LGsQPySZKdg?si=UxyXYf9m8U6yYthf
+         pyqs-
+
+
+- **Geotechnical Engineering II (CE303)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLOzRYVm0a65exThlViXrMaHWwFby8JWDN&si=iBNf55RV6m34qK3V
+         pyqs-
+
+
+- **Design of Concrete Structures (CE304)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLBSqVbQAOPl28aiEb9N3cojS2yQL_tLVh&si=-WKV_DyFEBALhR9q
+         pyqs-
+
+
+- **Design of Steel Structures (CE305)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLB8sFY--qjuBzqeOpxCYX6S2FOYL0HaAZ&si=s-qwvN_OqrkeLes8
+         pyqs-
+
+
+
+#### **Semester 6:**
+- **Environmental Engineering II (CE306)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLtUBZD8bSB10N3YHPl52j0quwM3IqT3We&si=bTBoUxgHPnrM4h3z
+         pyqs-
+
+
+- **Design of Pavements and Bridges (CE307)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLMsATSpypWs22ryMV8XiHcVDJdx7uly42&si=zqjtlaZqJTrbc-L2
+         pyqs-
+
+
+- **Hydrology and Hydraulic Engineering (CE308)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLjtQ3BMex7huGfWeDWUiRVFRmgzoDtMZ6&si=STt30E9KhR4z_zI2
+         pyqs-
+
+
+- **Geotechnical Engineering Lab (CE309)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLH6kJA_VaiSWIKQgVtLmVHOGGsu1GtNn4&si=nPmHrf2ge6PBs8cl
+         pyqs-
+
+
+- **Environmental Engineering Lab (CE310)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLt0YnX1QnknjkdcLO1bX1gga6xZvrNeib&si=uOB9TwPkVRnB7SF_
+         pyqs-
+
+
+
+#### **Semester 7:**
+- **Advanced Structural Analysis (CE401)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLEE5D02698EAAF2C0&si=nsiWvrNLoeoXQt8k
+         pyqs-
+
+
+- **Project Management (CE402)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLeUIXA68NobWh-CAopnDKlEaMKeUDSvsC&si=ZTGadZPyZtS07BJL
+         pyqs-
+
+
+- **Geosynthetics and Ground Improvement (CE403)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLm_MSClsnwm_qbL_4nH8UJjwR0-pejHp_&si=90z0PmYmSoDtAUMP
+         pyqs-
+
+
+- **Advanced Soil Mechanics (CE404)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLwdnzlV3ogoWF5fz8UH4TYtEWH9tqZkfY&si=cjau3Vj4BpF2zZH6
+         pyqs-
+
+
+- **Electives (CS408, CS409, etc.)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT&si=1LnKX4LsYIPCMZNY
+         pyqs-
+
+
+
+#### **Semester 8:**
+
+- **Elective Courses (CE408, CE409, etc.)**
+         pdf-
+         link-https://youtube.com/playlist?list=PLPIwNooIb9viDc9TZ4Kx206NDMmquLlGc&si=jsliPoBZ6R6S_Fz1
+         pyqs-
+
+
+
+
+

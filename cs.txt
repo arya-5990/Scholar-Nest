@@ -1,0 +1,8 @@
+excel sheet link of detailed notes - https://library.iitd.ac.in/LectureNotes/Computer_Science.xlsx
+
+COMPUTER NETWORK - https://icot.co.in/uploads/cse-notes/COMPUTER%20NETWORK.pdf
+MACHINE LEARNING - https://icot.co.in/uploads/cse-notes/MACHINE%20LEARNING.pdf
+WEB TECHNOLOGY - https://icot.co.in/uploads/cse-notes/WEB%20TECHNOLOGY.pdf
+CS-501 TOC - https://icot.co.in/uploads/cse-notes/CS-501%20TOC%20Notes.pdf
+DATA STRUCTURE-II - https://icot.co.in/uploads/cse-notes/Data%20structure-II.pdf
+DATA ANALYTICS - https://icot.co.in/uploads/cse-notes/DATA%20ANALYTICS%20(2).pdf
